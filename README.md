@@ -2,7 +2,7 @@
 <!-- PROJECT SHIELDS -->
 
 * This is the sample spring boot java project for calling many types of API endpoints.
-* This project is communicated with Rest API receiver service that I already uploaded in here [RestAPI Sample Receiver Service](https://github.com/mukhamaw-mm/sample-api-receiver-service).
+* This project is communicated with Sample API receiver service that I already uploaded in here [RestAPI Sample Receiver Service](https://github.com/mukhamaw-mm/sample-api-receiver-service).
 
 
 <a name="about-the-project"></a>
@@ -10,7 +10,7 @@
 This is the rest API caller project for calling many types of API endpoints. <br>
 This is demo project and so, I don't add any other logic like communication with db, etc.
 So, you will see hard coded values in service class. <br>
-This service will call to receiver service [RestAPI Sample Receiver Service](https://github.com/mukhamaw-mm/sample-api-receiver-service),
+This service will call to receiver service [Sample API Receiver Service](https://github.com/mukhamaw-mm/sample-api-receiver-service),
 so, you need to run that receiver service first in your machine. <br>
 You can learn how to call that many types of API endpoints by using RestTemplate in this project. <br>
 You can learn how to call many types of API endpoints by using RestTemplate in this project like below,
