@@ -2,7 +2,7 @@
 <!-- PROJECT SHIELDS -->
 
 * This is the sample spring boot java project for calling many types of API endpoints.
-* This project is communicated with Sample API receiver service that I already uploaded in here [RestAPI Sample Receiver Service](https://github.com/mukhamaw-mm/sample-api-receiver-service).
+* This project is communicated with Sample API receiver service that I already uploaded in here [Sample API Receiver Service](https://github.com/mukhamaw-mm/sample-api-receiver-service).
 
 
 <a name="about-the-project"></a>
